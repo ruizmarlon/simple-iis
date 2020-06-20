@@ -1,7 +1,7 @@
 apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
-  name: bakery
+  name: iis
 spec:
   rules:
     - host: iis.kube.maws.mr.dtcntr.net
